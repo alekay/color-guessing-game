@@ -1,4 +1,4 @@
-# color-guessing-game
+# Description
 **A color guessing game with HTML, CSS, and JavaScript**
 
 # View Project
